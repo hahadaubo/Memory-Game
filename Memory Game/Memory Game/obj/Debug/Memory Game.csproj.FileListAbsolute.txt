@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory Game.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory_Game.SelectLevels.resources
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory_Game.Easy_Levels.resources
+C:\Users\USER\Desktop\LAB Win\Memory Game Project\Memory Game\Memory Game\obj\Debug\Memory_Game.Hard_Levels.resources
